@@ -4,7 +4,7 @@
 <br></br>
 💫 About Me:
 <br></br>
-🥳 Me Hari Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br><br>👉 Lives in pollachi, India 🇮🇳<br><br>
+🥳 Me Aswin Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br><br>👉 Lives in pollachi, India 🇮🇳<br><br>
 
 "Make it work, make it right, make it fast."
 
