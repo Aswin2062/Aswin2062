@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in Indian
 * ✉️  You can contact me at [Aswin2062@gmail.com](mailto:Aswin2062@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js and Typescript
 
 
 ## 🌐 Socials:
